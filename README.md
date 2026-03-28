@@ -20,5 +20,3 @@ It demonstrates an end-to-end **Streamlit dashboard** built using Python and Pan
 - Python
 - Pandas
 - Streamlit
-
-- 
